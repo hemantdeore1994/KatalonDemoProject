@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Delhi</name>
+   <tag></tag>
+   <elementGuidId>35a75b3e-76d1-406e-9eba-1246a1cccb2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoSuggestContainer']/div/div[3]/div/ul/li/div/text</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-gZMcBi.grvhsy > text.placeHolderMainText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; To  Delhi  ISBT Kashmiri Gate Delhi  Indira Gandhi International Airport Delhi  Akshardham Metro Station Delhi  Badarpur Delhi  Mayur Vihar Delhi  Dhaula Kuan Delhi  Majnu Ka Tilla Delhi  Morigate Delhi  RK Ashram Delhi  Akshardham Mandir Delhi  Uttam Nagar Delhi  Delhi Cantt Delhi  GT Karnal Road Delhi  Rohini Delhi  Tis Hazari Delhi  Azadpur Delhi  Delhi Airport  Delakhari (Madhya Pradesh)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>21243ec7-3bdb-458f-baa9-fda9f83bc510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeHolderMainText</value>
+      <webElementGuid>5ef0e7de-49dc-4c8b-99be-a191917ac7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delhi</value>
+      <webElementGuid>54638a3a-e53e-4fba-bd00-30ead38d198f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoSuggestContainer&quot;)/div[@class=&quot;sc-ckVGcZ ikHMPa&quot;]/div[@class=&quot;sc-gqjmRU giWxzf&quot;]/div[@class=&quot;sc-VigVT ishpWr&quot;]/ul[@class=&quot;sc-dnqmqq eFEVtU&quot;]/li[@class=&quot;sc-iwsKbI jTMXri cursorPointing&quot;]/div[@class=&quot;sc-gZMcBi grvhsy&quot;]/text[@class=&quot;placeHolderMainText&quot;]</value>
+      <webElementGuid>42043b31-f9c2-45d3-b799-b83af3bc24ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoSuggestContainer']/div/div[3]/div/ul/li/div/text</value>
+      <webElementGuid>c26883c2-ee8f-408d-874d-9c20f3807618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/following::text[1]</value>
+      <webElementGuid>7f4b7cb4-0bca-45d3-8a02-a3f6b41cc595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai'])[1]/following::text[1]</value>
+      <webElementGuid>a3f94d0f-7fe1-4d5b-9b2f-6a48d33cc7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ISBT Kashmiri Gate'])[1]/preceding::text[1]</value>
+      <webElementGuid>281e8bef-5c27-4ad0-ba35-acbe96383d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delhi'])[2]/preceding::text[2]</value>
+      <webElementGuid>0047adbb-723e-45b5-9715-8f7ca2d57588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delhi']/parent::*</value>
+      <webElementGuid>1bb6a1b7-66c0-46c2-8531-e10fc50a31d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/text</value>
+      <webElementGuid>9815975f-5b15-4eaa-b9ad-2e1a83b4ddf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'Delhi' or . = 'Delhi')]</value>
+      <webElementGuid>12e44c58-6fd6-4507-9ac6-4949014e828d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

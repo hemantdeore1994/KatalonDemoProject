@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_concat(India, , s No. 1 Online Bus Ticket_4f81f5</name>
+   <tag></tag>
+   <elementGuidId>6f19a4c4-d037-4f3a-8103-6e5c3a38c36a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoSuggestContainer']/div/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.sc-bwzfXH.dNCrpK.icon.icon-src</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; From&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>babb9d9d-ba79-4231-bb07-9dcae086c4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bwzfXH dNCrpK icon icon-src</value>
+      <webElementGuid>5cc931f3-204a-4930-92b2-4bd144998d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoSuggestContainer&quot;)/div[@class=&quot;sc-ckVGcZ ikHMPa&quot;]/div[1]/div[@class=&quot;sc-gqjmRU giWxzf&quot;]/div[@class=&quot;sc-VigVT ishpWr&quot;]/div[@class=&quot;sc-bdVaJa bpEJck&quot;]/i[@class=&quot;sc-bwzfXH dNCrpK icon icon-src&quot;]</value>
+      <webElementGuid>20f5b246-cb2e-4e56-a9c1-179e604cf733</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoSuggestContainer']/div/div/div/div/div/i</value>
+      <webElementGuid>c096134f-6908-47e8-a63c-d161e40b69e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/i</value>
+      <webElementGuid>c925a2dd-683c-46d5-a25d-53bb516a49f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

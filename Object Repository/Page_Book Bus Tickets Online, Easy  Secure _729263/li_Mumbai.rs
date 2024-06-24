@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Mumbai</name>
+   <tag></tag>
+   <elementGuidId>17997160-bf35-43d8-b1c5-b9164fc7960b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoSuggestContainer']/div/div/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sc-iwsKbI.jTMXri.cursorPointing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; From  Mumbai  Nalasopara East Mumbai  Kurla Mumbai  Mumbai International Airport Mumbai  Borivali East Mumbai  Bandra Mumbai  Andheri East Mumbai  Sion Mumbai  Vashi Mumbai  Dadar East Mumbai  Muvattupuzha  Murthal  Muzaffarnagar  Mumbai Darshan  Mulki  Multai  Muzaffarpur (Bihar)  Murdeshwar  Mukerian&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>66021c91-36ee-417e-8b7b-468c54dc094f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-iwsKbI jTMXri cursorPointing</value>
+      <webElementGuid>e18994ca-5555-4566-911f-5b4c6d314da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Mumbai</value>
+      <webElementGuid>e3d7c099-0ee1-41ac-a316-3d5a140eefd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoSuggestContainer&quot;)/div[@class=&quot;sc-ckVGcZ ikHMPa&quot;]/div[1]/div[@class=&quot;sc-gqjmRU giWxzf&quot;]/div[@class=&quot;sc-VigVT ishpWr&quot;]/ul[@class=&quot;sc-dnqmqq eFEVtU&quot;]/li[@class=&quot;sc-iwsKbI jTMXri cursorPointing&quot;]</value>
+      <webElementGuid>0ffd2293-8b9c-453e-91f2-278000849b28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoSuggestContainer']/div/div/div/div/ul/li</value>
+      <webElementGuid>0bd05a13-2ce8-4d74-bd36-747c44787243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/following::li[1]</value>
+      <webElementGuid>cbb034d9-ac9e-42f8-a97d-42e9f8bdd7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nalasopara East'])[1]/preceding::li[1]</value>
+      <webElementGuid>e7c5d7d7-065f-4515-8731-3f91ea008c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li</value>
+      <webElementGuid>e1377c00-1350-42ea-9631-fc5084472484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Mumbai' or . = ' Mumbai')]</value>
+      <webElementGuid>9b6c98e3-7621-4ef0-ba3f-d38cb37bf214</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

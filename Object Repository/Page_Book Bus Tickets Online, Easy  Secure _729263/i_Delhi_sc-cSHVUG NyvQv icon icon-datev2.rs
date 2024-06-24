@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delhi_sc-cSHVUG NyvQv icon icon-datev2</name>
+   <tag></tag>
+   <elementGuidId>c91b468f-e474-474f-9f2d-93bc4b0649da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onwardCal']/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.sc-cSHVUG.NyvQv.icon.icon-datev2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Date Jun 2024 Icons_SVG__redone MON TUE WED THU FRI SAT SUN 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 1 2 3 4 5 6 7&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2323fb78-0a78-4f2d-bf30-34c84d29897f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-cSHVUG NyvQv icon icon-datev2</value>
+      <webElementGuid>4496cff3-c987-49d9-a44f-9c9d01bfea98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onwardCal&quot;)/div[@class=&quot;labelCalendarContainer&quot;]/i[@class=&quot;sc-cSHVUG NyvQv icon icon-datev2&quot;]</value>
+      <webElementGuid>4bbbc7e1-f6d4-4375-9590-a38060fc93f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onwardCal']/div/i</value>
+      <webElementGuid>1d5dfe4e-99be-43db-a318-d71abfcba43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/i</value>
+      <webElementGuid>46068e1c-c60b-4a62-92ad-c2cb058c90a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
